@@ -1,3 +1,5 @@
 # tlali-app
 
-#NativeScript vuejs
+# NativeScript vuejs viewer 
+
+## 
