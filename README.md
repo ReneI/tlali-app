@@ -1,0 +1,3 @@
+# tlali-app
+
+#NativeScript vuejs
